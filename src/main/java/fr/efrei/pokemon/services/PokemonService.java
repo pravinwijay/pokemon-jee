@@ -29,7 +29,7 @@ public class PokemonService {
     }
 
     public Pokemon findById(String id){
-        // SELECT Pokemon WHERE id=id
+        // SELECT * FROM Pokemon WHERE id=id
         return pokemonRepository.findById(id).orElse(null);
     }
 
