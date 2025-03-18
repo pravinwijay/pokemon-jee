@@ -1,2 +1,2 @@
 ﻿# pokemon-jee
- Porjet JEE
+ Projet JEE
